@@ -3,20 +3,11 @@
 
 <head>
   <style>
-    /**
-* Template Name: WeBuild - v4.8.1
-* Template URL: https://bootstrapmade.com/free-bootstrap-coming-soon-template-countdwon/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
+  
 body {
   font-family: "Open Sans", sans-serif;
   color: #444;
-  background:rgba(255,255,255,255);
+  background: linear-gradient(#00b4d8 , #90e0ef);
 }
 
 a {
@@ -39,9 +30,7 @@ h6,
   font-family: "Raleway", sans-serif;
 }
 
-/*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
+
 #header {
   height: 80px;
   padding: 20px 0;
@@ -89,9 +78,7 @@ h6,
   }
 }
 
-/*--------------------------------------------------------------
-# Hero Section
---------------------------------------------------------------*/
+
 #hero {
   width: 100%;
   height: 100vh;
@@ -260,9 +247,7 @@ h6,
   }
 }
 
-/*--------------------------------------------------------------
-# Sections General
---------------------------------------------------------------*/
+
 section {
   padding: 60px 0;
 }
@@ -287,9 +272,7 @@ section {
   margin-bottom: 0;
 }
 
-/*--------------------------------------------------------------
-# Contact Us
---------------------------------------------------------------*/
+
 .contact .contact-info {
   margin-bottom: 20px;
   text-align: center;
